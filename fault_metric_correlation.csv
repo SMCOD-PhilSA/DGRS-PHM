@@ -1,0 +1,33 @@
+metric,fault_correlation
+Lower/Y following error_max,0.6617125268364904
+Movement warning_count,0.6268384248045857
+Antenna brake_count,0.49661631771203624
+Antenna alarm_count,0.378645528728045
+servo_stress_index,0.29672263528346854
+Lower/Y following error_mean,0.21684366054010673
+Lower axis current_mean,0.20203643512539363
+Upper/X following error_max,0.1609128106907258
+Lower axis current_max,0.15483541430873196
+Antenna elevation velocity_max,0.14719371701201672
+Ambient temperature_max,0.13626598655659003
+Upper/X following error_mean,0.1295050579782769
+Upper axis current_max,0.11953062911163971
+Antenna azimuth velocity_max,0.11046670682148363
+Casting temperature_max,0.089565708661714
+Antenna elevation velocity_mean,0.07122325707354375
+Upper/X velocity_max,0.05599846526133242
+Lower/Y velocity_max,0.0443847279237797
+Antenna azimuth velocity_mean,0.040164287531548014
+Upper/X velocity_mean,0.03851149949683395
+Upper axis current_mean,0.035825114700847725
+Lower/Y velocity_mean,0.007505667231951707
+Casting temperature_mean,-0.00411364327209489
+Ambient temperature_mean,-0.10268079379120928
+Cabinet temperature_mean,-0.12304287434891598
+Cabinet temperature_max,-0.14483227681752758
+Upper axis hard limit_count,
+Lower axis hard limit_count,
+Upper axis e-stop_count,
+Lower axis e-stop_count,
+Upper axis final limit_count,
+Lower axis final limit_count,

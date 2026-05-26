@@ -1,0 +1,2 @@
+date,fault_event_day,rul_days,rul_prediction_days,degradation_state,total_episode_count,motion_event_count,track_event_count,rolling_7d_episode_count
+2026-03-05,0,,5.366430332207791,57.579,2.0,6,0,14.571428571428571

@@ -1,0 +1,14 @@
+feature,importance
+rolling_7d_fault_duration,0.6335800279055419
+degradation_state,0.13755780072087037
+rolling_7d_episode_count,0.07313073952733253
+motion_event_count,0.0330314522695083
+episode_trend_slope_14d,0.0303930685014196
+daily_stress,0.0248215779716798
+daily_damage,0.02363505128628145
+track_event_count,0.018285238131581123
+active_flag,0.01265477555243911
+daily_recovery,0.010541820655811503
+total_episode_count,0.0016123624403850403
+total_fault_duration_sec,0.0006704226859998579
+unique_error_codes,8.566235114936609e-05

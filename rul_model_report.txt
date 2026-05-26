@@ -1,0 +1,20 @@
+RUL MODEL REPORT
+Generated: 2026-03-05 04:01:27.105031
+
+MAE mean: 5.09
+RMSE mean: 9.31
+
+Top Predictors:
+rolling_7d_fault_duration : 0.6336
+degradation_state : 0.1376
+rolling_7d_episode_count : 0.0731
+motion_event_count : 0.0330
+episode_trend_slope_14d : 0.0304
+daily_stress : 0.0248
+daily_damage : 0.0236
+track_event_count : 0.0183
+active_flag : 0.0127
+daily_recovery : 0.0105
+total_episode_count : 0.0016
+total_fault_duration_sec : 0.0007
+unique_error_codes : 0.0001
