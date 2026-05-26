@@ -4,5 +4,5 @@
 __pycache__/
 *.pyc
 metrics_master.csv
-*.pkl
-*.joblib
+motion_lock_model.pkl
+ml_model_7day.joblib
